@@ -1,3 +1,5 @@
-# somethingNewEveryDay
-I learn 1 new thing concerning Web Development/Comp Sci/ Technology and create my own simple example with the new found knowledge
-## test
+
+# Something New Every Day
+
+Mon - Sept 26, 7:55pm
+learned 'let' in JavaScript

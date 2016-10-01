@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>letExample</title>
-    </head>
-    <body>
 
-        <script>
+
         "use strict";
 
         // because 'let' was used instead of 'var', it is only visiable for lines 13-15
@@ -16,7 +9,3 @@
 
         // which means line 18 has no clue what the variable 'i' represents
         console.log('outside of for loop, i = ' + i);
-
-        </script>
-    </body>
-</html>

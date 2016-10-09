@@ -6,4 +6,4 @@ Mon - Sept 26, 7:55pm
 learned 'let' in JavaScript
 
 Sat - Oct 8, 10:35 pm
-learned '' in JavaScript
+show the user what type of file they are about to download by using a little picture next to the download link. (CSS)

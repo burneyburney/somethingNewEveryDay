@@ -1,3 +1,4 @@
-[href$=".pdf"]::after{
-content: " " url("https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647716-pdf-24.png");
+body [href=".pdf"]::after{
+content: " "
+url("https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647716-pdf-24.png");
 }

@@ -1,6 +1,5 @@
 
-
-# Something New Every Day
+# Something New Every Day (that i have access to internet)
 ## change log:
 
 Mon - Sept 26, 7:55pm  
@@ -11,3 +10,6 @@ add a color picker to your webpage with just html
 
 Thur - Oct 27, 7:18pm  
 learned how to pass things from one page to the next w/ javascript (use localStorage)
+
+Tue - Nov 1 10:23pm
+learned how to use underscore.js to better suit my needs. 

@@ -14,9 +14,15 @@ Thur - Oct 27, 7:18pm
 
     learned how to pass things from one page to the next w/ javascript (use localStorage)
 
+Mon - Oct 31
+
+    New version of Ruby has an immutable string method.
+    also "the lonely operator" (&.)  
+
 Tue - Nov 1 10:23pm  
 
     learned how to use underscore.js to better suit my needs.
+
 
 Wed Nov 2 10:25pm  
 

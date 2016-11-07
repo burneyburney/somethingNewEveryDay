@@ -2,6 +2,7 @@
 # Something New Every Day (that i have access to internet)
 ## change log:
 
+
 Mon - Sept 26, 7:55pm   
 
     learned 'let' in JavaScript

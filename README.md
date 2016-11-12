@@ -30,3 +30,6 @@ Wed Nov 2 10:25pm
     Question: What problem does React Solve?  
     Answer: Instead of doing a lot of dom manipulation, just render the entire page.  
     Currently getting a better grasp on  javascript promises and higher order functions
+
+Fri Nov 11 10:29pm  
+    Learned how to lazy load in javascript... theres a libray for that 8)

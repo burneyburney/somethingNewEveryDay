@@ -1,7 +1,5 @@
-
 # Something New Every Day (that i have access to internet)
-## change log:
-
+/
 
 Mon - Sept 26, 7:55pm   
 
@@ -33,3 +31,6 @@ Wed Nov 2 10:25pm
 
 Fri Nov 11 10:29pm  
     Learned how to lazy load in javascript... theres a libray for that 8)
+
+Sun Nov 13
+    Learned jekyll and Angular CLI, and how to change your bash command history.

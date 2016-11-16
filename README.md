@@ -1,4 +1,4 @@
-# Something New Every Day (that i have access to internet)
+# Something New Every Day (if i have access to internet)
 
 Mon - Sept 26, 7:55pm   
 

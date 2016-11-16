@@ -34,3 +34,6 @@ Fri Nov 11 10:29pm
 
 Sun Nov 13
     Learned jekyll and Angular CLI, and how to change your bash command history.
+
+Tue Nov 15
+    Read through Wes Bos's "Speed Learning" post. Will utilize this from now on.

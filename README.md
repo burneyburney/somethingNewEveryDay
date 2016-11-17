@@ -42,4 +42,4 @@ Tue Nov 15  7:15pm
 
 Wed Nov 16 8:10pm
 
-    Swapping varialbe values by deconstructing in ES6. Will add hard example later. ex. [a, b] = [b, a];
+    Swapping variable values by deconstructing in ES6. Will add hard example later. ex. [a, b] = [b, a];

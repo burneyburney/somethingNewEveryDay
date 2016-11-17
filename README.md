@@ -39,3 +39,7 @@ Sun Nov 13
 Tue Nov 15  7:15pm
 
     Read through Wes Bos's "Speed Learning" post. Will utilize this from now on.
+
+Wed Nov 16 8:10pm
+
+    Swapping varialbe values by deconstructing in ES6. Will add hard example later. ex. [a, b] = [b, a];

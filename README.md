@@ -43,3 +43,9 @@ Tue Nov 15  7:15pm
 Wed Nov 16 8:10pm
 
     Swapping variable values by destructuring in ES6. Will add hard example later. ex. [a, b] = [b, a];
+
+Thur Nov 17  
+
+    You can pass a base value into the .toString() method. Its base 10 by default.
+
+    

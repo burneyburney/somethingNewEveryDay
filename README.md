@@ -48,4 +48,6 @@ Thur Nov 17
 
     You can pass a base value into the .toString() method. Its base 10 by default.
 
-    
+Sun Nov 20 3:56pm  
+
+    http://codeguide.co/ taught me the proper ways to next in SASS and LESS.

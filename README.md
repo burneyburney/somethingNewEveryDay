@@ -51,3 +51,7 @@ Thur Nov 17
 Sun Nov 20 3:56pm  
 
     http://codeguide.co/ taught me the proper ways to next in SASS and LESS.
+
+Sun Nov 20 7:58pm  
+
+    http://www.robotstxt.org/robotstxt.html found out the proper way to utilize robots.txt

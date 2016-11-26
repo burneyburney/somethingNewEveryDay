@@ -55,3 +55,9 @@ Sun Nov 20 3:56pm
 Sun Nov 20 7:58pm  
 
     http://www.robotstxt.org/robotstxt.html found out the proper way to utilize robots.txt
+
+
+Fri Nov 25 8:55pm  
+
+    Classes in C were a proprietary thing.  
+    Erland was created by Sony Erricson.  

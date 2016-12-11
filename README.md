@@ -64,4 +64,6 @@ Fri Nov 25 8:55pm
 
 Sun Dec 11 10:59am  
 
-	Learned movement/deletion/operators and motions in vim 
+	Learned movement/deletion/operators and motions in vim
+	On second read of 'Pragmatic Programmer'
+ 

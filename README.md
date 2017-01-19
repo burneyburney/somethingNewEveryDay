@@ -60,10 +60,13 @@ Sun Nov 20 7:58pm
 Fri Nov 25 8:55pm  
 
     Classes in C were a proprietary thing.  
-    Erland was created by Sony Erricson. 
+    Erland was created by Sony Erricson.
 
 Sun Dec 11 10:59am  
 
 	Learned movement/deletion/operators and motions in vim
 	On second read of 'Pragmatic Programmer'
- 
+
+Wed Jan 18 9:10pm
+
+    higher order functions are just call back functions...

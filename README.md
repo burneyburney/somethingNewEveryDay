@@ -70,3 +70,7 @@ Sun Dec 11 10:59am
 Wed Jan 18 9:10pm
 
     higher order functions are just call back functions...
+
+Sat Feb 11 11:18pm
+
+    vim.....

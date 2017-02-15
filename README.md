@@ -73,4 +73,4 @@ Wed Jan 18 9:10pm
 
 Sat Feb 11 11:18pm
 
-    vim.....
+    aparently you can open .psd's in preview... i had no clue 

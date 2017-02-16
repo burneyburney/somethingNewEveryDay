@@ -73,4 +73,8 @@ Wed Jan 18 9:10pm
 
 Sat Feb 11 11:18pm
 
-    aparently you can open .psd's in preview... i had no clue 
+    apparently you can open .psd's in preview... i had no clue
+
+Wed Feb 15 9:03pm
+
+    found out the origins of cat command, discovered you can concatenate files with it and also create files http://www.linfo.org/cat.html

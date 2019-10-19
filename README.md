@@ -1,9 +1,10 @@
 # Something New Every Day (if i have access to internet)
 
+------------- This will have a strong focus on the ServiceNow platform from this point forward -------------
 Mon - Sept 26, 7:55pm   
 
     learned 'let' in JavaScript
-
+    
 Sat - Oct 8, 10:35 pm  
 
     add a color picker to your webpage with just html
@@ -20,7 +21,6 @@ Mon - Oct 31
 Tue - Nov 1 10:23pm  
 
     learned how to use underscore.js to better suit my needs.
-
 
 Wed Nov 2 10:25pm  
 
@@ -51,16 +51,15 @@ Thur Nov 17
 Sun Nov 20 3:56pm  
 
     http://codeguide.co/ taught me the proper ways to next in SASS and LESS.
-
+    
 Sun Nov 20 7:58pm  
 
     http://www.robotstxt.org/robotstxt.html found out the proper way to utilize robots.txt
 
-
 Fri Nov 25 8:55pm  
 
     Classes in C were a proprietary thing.  
-    Erland was created by Sony Erricson.
+    Erlang was created by Ericsson
 
 Sun Dec 11 10:59am  
 
@@ -75,7 +74,7 @@ Sat Feb 11 11:18pm
 
     apparently you can open .psd's in preview... i had no clue
 
+
 Wed Feb 15 9:03pm
 
     found out the origins of cat command, discovered you can concatenate files with it and also create files http://www.linfo.org/cat.html
-

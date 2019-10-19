@@ -1,6 +1,7 @@
 # Something New Every Day (if i have access to internet)
 
 ------------- This will have a strong focus on the ServiceNow platform from this point forward -------------
+
 Mon - Sept 26, 7:55pm   
 
     learned 'let' in JavaScript
